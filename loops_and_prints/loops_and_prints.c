@@ -1,7 +1,5 @@
 #include <stdio.h> // I/O
 #include <stdlib.h> // C standard library
-#include <sys/time.h> // time related
-#include <assert.h> // assertion macro 
 
 int main(int argc, char *argv[])
 {
